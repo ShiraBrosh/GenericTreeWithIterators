@@ -1,5 +1,7 @@
+//shira1d2631@gmail.com
+//Shira Brosh - 211821137
+
 #ifndef TREE_HPP
-#define TREE_HPP
 
 #include <queue>
 #include <iostream>
@@ -14,6 +16,7 @@
 #include <sstream>
 #include <iomanip>
 
+#define TREE_HPP
 #define NODE_RADIUS 25.f
 #define VERTICAL_SPACING 80.f
 #define INITIAL_HORIZONTAL_SPACING 200.f

@@ -1,3 +1,6 @@
+//shira1d2631@gmail.com
+//Shira Brosh - 211821137
+
 #include <iostream>
 #include <string>
 #include "Node.hpp"

@@ -1,3 +1,6 @@
+#shira1d2631@gmail.com
+#Shira Brosh - 211821137
+
 CXX = g++
 CXXFLAGS = -std=c++17 -Wall -Wextra -Werror -pedantic -fPIC
 SFMLFLAGS = -lsfml-graphics -lsfml-window -lsfml-system
